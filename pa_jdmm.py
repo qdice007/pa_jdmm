@@ -1,5 +1,5 @@
 # encoding: UTF-8
-__author__='LiBing'
+
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
